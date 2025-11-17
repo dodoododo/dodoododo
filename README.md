@@ -1,34 +1,52 @@
-<h2 align="left">👋 Hello, World! I'm Hau</h2>
+<h1 align="left">Hello, Welcome To My Profile</h1>
 
-###
 
-<p align="left">I'm an aspiring full-stack developer with a passion for turning ideas into reality through code. Currently focused on mastering web development fundamentals while building a strong foundation for my full-stack journey.</p>
+<h2 align="left">About Me</h1>
+Aspiring full-stack developer with a strong passion for building modern, user-focused web applications.  
+I’m currently developing my skills step-by-step through hands-on projects and continuous learning.
 
-###
+---
 
-<h2 align="left">🚀What I'm About</h2>
+## Why I Code 
 
-###
+I enjoy creating things that live on the internet, from simple interfaces to interactive applications.  
+My journey started with HTML & CSS, and over time I’ve grown deeply interested in the full ecosystem of web development.
 
-<p align="left">Building things that live on the internet excites me. My journey started with HTML and CSS, but I quickly fell in love with the entire web development ecosystem. I believe in learning by doing, and each project here represents a new challenge I've tackled.</p>
+I believe in learning by doing, and every project I create pushes me one step further.
 
-###
+---
 
-<h2 align="left">💡Current Focus</h2>
+## 💡 What I'm Focusing On
 
-###
+- Building responsive and accessible web applications  
+- Strengthening JavaScript fundamentals  
+- Learning React for modern front-end development  
+- Exploring back-end concepts with Node.js  
+- Writing clean, maintainable, and scalable code  
 
-<p align="left">-Building responsive and accessible web applications<br>-Strengthening my JavaScript fundamentals<br>-Learning React for front-end development<br>-Exploring backend concepts with Node.js<br>-Writing clean, maintainable code</p>
+---
 
-###
+## 📊 GitHub Stats
+
+<!-- GitHub Metrics -->
+<img src="https://github.com/dodoododo/dodoododo/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dodoododo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dodoododo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dodoododo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodoododo&theme=dracula" width="100%" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dodoododo&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=dodoododo&theme=dracula&hide_border=false" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dodoododo&theme=dracula&no-frame=true&no-bg=true&column=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodoododo&theme=dracula&hide_border=true" width="100%">
+</div>
 
 <h2 align="left">Connect With Me 🌐</h2>
 
