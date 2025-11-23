@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Hau+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;こんにちは!;I'm+Hau+%F0%9F%91%8B;Aspiring+Full-Stack+Developer;Always+Learning+New+Things!" />
 </div>
 
 <br>
