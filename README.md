@@ -7,7 +7,6 @@
 
 <!-- PERSONAL INFO SECTION -->
 <h1 align="left">👤 Who Am I?</h1>
-
 <div align="left">
 
 <div style="display: flex; flex-direction: column; gap: 14px; margin-top: 10px;">
